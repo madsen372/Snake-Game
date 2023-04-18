@@ -1,0 +1,11 @@
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\mads3\OneDrive\Skrivebord\Workspace\Snake Game\obj\Debug\Snake Game.pdb
